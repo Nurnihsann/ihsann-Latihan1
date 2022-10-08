@@ -1,0 +1,90 @@
+
+.body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-wrapper{
+    padding: 180px 0 100px 0;
+    background-image: url(dhaff.jpg);
+    background-size: cover;
+    color: rgba(17, 92, 158, 0.877);
+}
+.container{
+    width: 1100px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.container h1{
+    letter-spacing: 7px;
+    font-size: 45px;
+    margin-bottom: 5px
+}
+
+.container h2{
+    letter-spacing: -2px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.container p{
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+.container a{
+    text-decoration: none;
+}
+.btn{
+    padding: 12px 24px;
+    background-color: rgb(26, 26, 26);
+    color: aliceblue;
+    display: inline-block;
+    margin-top: 5px 0;
+    opacity: 0.9;
+}
+.btn-wrapper{
+    margin: 20px 0;
+}
+
+.Facebook{
+    margin-right: 10px;
+}
+.fa{
+    margin-right: auto;
+}
+.logo-header{
+    height: 50px;
+    margin-top: 10px;
+}
+header{
+    height: 70px;
+    background-color: rgb(24, 24, 24);
+}
+
+.left-header{
+    float: left;
+}
+.right-header{
+    float: right;
+}
+
+.right-header li{
+    float: left;
+}
+
+.right-header a{
+    transition: 0,5s;
+    display: inline-block;
+    padding: 27px 27px ;
+    margin: 0 15px;
+    width: 60px;
+    background-color: rgba(17, 92, 158, 0.877);
+    color: aliceblue;
+}
+.right-header a:hover{
+    background-color: rgb(115, 223, 66);
+    color: rgb(24, 24, 24);
+    padding: 28px 30px;
+
+}
